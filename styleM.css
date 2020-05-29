@@ -1,0 +1,35 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	background: #262626;
+}
+
+.skewedBox
+{
+	background: #edff57;
+	padding: 70px 0;
+	transform: skew(0deg, -10deg) translatey(-40px);
+}
+
+.container
+{
+	padding: 100px 150px;
+	transform: skew(0deg, 10deg);
+}
+
+.container h1
+{
+	margin: 0;
+	padding: 2px 0;
+	font-size: 1.5cm;
+}
+
+.container padding
+{
+	font-size: 1cm;
+	margin: 0;
+	padding: 0;
+	line-height: 1.5cm;
+	width: 70%;
+}
